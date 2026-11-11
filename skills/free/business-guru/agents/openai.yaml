@@ -1,0 +1,4 @@
+interface:
+  display_name: "Business Guru"
+  short_description: "Turn business complexity into a workable next move"
+  default_prompt: "Use $business-guru to help me make a business decision or map a workflow."
